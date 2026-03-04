@@ -33,6 +33,7 @@ Dá play no vídeo da abertura
 
 ▶️ Como executar
 python nome_do_arquivo.py
+
 🎯 Objetivo do projeto
 
 Praticar automação com Python, simulando interações humanas no sistema operacional para executar tarefas repetitivas de forma automática.
